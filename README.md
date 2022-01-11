@@ -1,7 +1,7 @@
 ### Hi There! Im Rafael Della Giustina ✌
 
 
-- 🔧 I’m currently working on <a href="https://suportepress.com.br/">SuportePress</a> as technical support
+- 🔧 I’m currently working on <a href="https://suportepress.com.br/" target="_blank">SuportePress</a> as technical support
 - 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me: rafael.della64@gmail.com
 - 😄 Pronouns: He/Him
