@@ -12,15 +12,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelDella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <br>
-  
-  <div align="center>
-    <img alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
+ <div style="display: inline_block">
+  <div align="center">
     <a href="https://unity.com/"><img align="center" alt="Rafa-Unity" height="" width="" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
     <a href="https://nikomu.itch.io/" target="_blank"><img align="center" alt="Rafa-Itch" height="" width="" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Rafa-Itch" height="" width="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whitet"></a>  
    </div>
-
-</div>
+ </div>
   
   ##
  
