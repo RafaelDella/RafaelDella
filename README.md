@@ -1,7 +1,7 @@
 ### Hi There! Im Rafael Della Giustina ✌
 
 
-- 🔧 I’m currently working on <a href="https://historymakers.link/" target="_blank">Historymakers</a> as technical support
+- 🔧 I’m currently working on <a href="https://historymakers.link/en" target="_blank">Historymakers</a> as technical support
 - 📫 <a href="https://1pg.link/rafadella" target="_blank">1pg.link/rafadella</a>
 - ⚡ Fun fact: I like Punk/Emo/Pop Rock
 - 😄 JOIN <a href="https://1pg.link/en" target="_blank">1pg.link</a>
