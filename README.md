@@ -5,7 +5,7 @@
 - 🌱 <a href="https://1pg.link/rafadella" target="_blank">1pg.link/rafadella</a>
 - 📫 How to reach me: rafael.della64@gmail.com
 - ⚡ Fun fact: I like Punk/Emo/Pop Rock
-- 😄 JOIN <a href="https://1pg.link" target="_blank">1pg.link</a>
+- 😄 JOIN <a href="https://1pg.link/en" target="_blank">1pg.link</a>
 
 <div align="center">
   <a href="https://github.com/RafaelDella">
