@@ -1,11 +1,11 @@
 ### Hi There! Im Rafael Della Giustina ✌
 
 
-- 🔧 I’m currently working on <a href="https://suportepress.com.br/" target="_blank">SuportePress</a> as technical support
-- 🌱 I’m currently learning PHP and frontend
+- 🔧 I’m currently working on <a href="https://historymakers.link/" target="_blank">Historymakers</a> as technical support
+- 🌱 1pg.link/rafadella
 - 📫 How to reach me: rafael.della64@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Punk/Emo/Pop Rock
+- 😄 join 1pg.link
 
 <div align="center">
   <a href="https://github.com/RafaelDella">
