@@ -4,7 +4,7 @@
 - 🔧 I’m currently working on <a href="https://historymakers.link/en" target="_blank">Historymakers</a> as technical support
 - 📫 <a href="https://1pg.link/rafadella" target="_blank">1pg.link/rafadella</a>
 - ⚡ Fun fact: I like Punk/Emo/Pop Rock
-- 😄 JOIN <a href="https://1pg.link/en](https://1pg.link/pay/4/?code=RAFAEL20OFF&?referral_key=52af5626ed7c7f00cbc73b017357db5d" target="_blank">1pg.link</a> with 20%OFF!!!
+- 😄 JOIN <a href="https://1pg.link/pay/4/?code=RAFAEL20OFF&?referral_key=52af5626ed7c7f00cbc73b017357db5d" target="_blank">1pg.link</a> with 20%OFF!!!
 
 <div align="center">
   <a href="https://github.com/RafaelDella">
