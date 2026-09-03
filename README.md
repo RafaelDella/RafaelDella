@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rafael Della Giustina 👋
+# Hi, I'm Rafael Della Giustina
 
 **Software Engineering student · Full-Stack Developer · Data & Cloud enthusiast**
 
@@ -51,16 +51,5 @@ I'm especially interested in projects involving data platforms, automation, AI-a
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelDella&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Rafael's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDella&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Rafael's most used languages" />
-</div>
-
-## Beyond code
-
-When I'm away from the keyboard, you'll probably find me listening to **punk, emo or pop rock**, cycling, taking photos or playing RPGs. 🎸📷🎲
-
----
-
-<div align="center">
-  <i>Building reliable software, learning continuously and turning real problems into useful products.</i>
+  <img src="https://github-stats-extended.vercel.app/api?username=RafaelDella&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 </div>
