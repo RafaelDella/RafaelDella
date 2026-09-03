@@ -1,34 +1,66 @@
-### Hi There! Im Rafael Della Giustina ✌
-
-
-- 🔧 I’m currently working on <a href="https://historymakers.link/en" target="_blank">Historymakers</a> as technical support
-- 📫 <a href="https://1pg.link/rafael" target="_blank">1pg.link/rafael</a>
-- ⚡ Fun fact: I like Punk/Emo/Pop Rock
-- 😄 JOIN <a href="https://1pg.link/pay/4/?code=RAFAEL20OFF&?referral_key=52af5626ed7c7f00cbc73b017357db5d" target="_blank">1pg.link</a> with 20%OFF!!!
-
 <div align="center">
-  <a href="https://github.com/RafaelDella">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelDella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+# Hi, I'm Rafael Della Giustina 👋
+
+**Software Engineering student · Full-Stack Developer · Data & Cloud enthusiast**
+
+Curitiba, Brazil 🇧🇷
+
+[![Contact](https://img.shields.io/badge/Portfolio_%26_Contact-1pg.link-0A66C2?style=flat-square)](https://1pg.link/rafael)
+[![Email](https://img.shields.io/badge/Email-rafael.della64%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.della64@gmail.com)
+
 </div>
-<br>
- 
- <div style="display: inline_block">
-  <div align="center">
-    <a href="https://unity.com/"><img align="center" alt="Rafa-Unity" height="" width="" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
-    <a href="https://nikomu.itch.io/" target="_blank"><img align="center" alt="Rafa-Itch" height="" width="" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Rafa-Itch" height="" width="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whitet"></a>  
-   </div>
- </div>
-  
-  ##
- 
+
+## About me
+
+I'm a Software Engineering undergraduate at **PUCPR (2024–2027)** and a **Full-Stack Developer & Technical Support Specialist** at [Historymakers](https://historymakers.link/en), where I help build, maintain and support web products used by around 125 clients.
+
+My work combines software development, APIs, databases, cloud services and direct contact with real user needs. I care about clean architecture, security by design, maintainable code and products that create practical impact.
+
+- 💻 Working with **PHP/Laravel, Python, Next.js/React, REST APIs and relational databases**
+- 📊 Deepening my knowledge of **Data Engineering, SQL, Databricks, Apache Spark and PySpark**
+- ☁️ Studying **AWS, Azure, CI/CD and software/solutions architecture**
+- 🦀 Exploring **secure programming with Rust** and embedded systems with C/C++
+- 🎓 Former PUCPR teaching assistant for **Java/OOP, Python and Discrete Mathematics**
+- 🛡️ Cisco **Network Defense** certified
+
+## Featured projects
+
+| Project | What it does | Main technologies |
+| --- | --- | --- |
+| [Transcreve Local](https://github.com/RafaelDella/audio-video-transcriptor) | Privacy-focused local audio transcription with resumable processing and multiple output formats | Python, Faster-Whisper, PyAV, Pytest |
+| [Urban Digital Twin](https://github.com/RafaelDella/digital-twin) | Real-time traffic incident visualization and road-network scenario simulation | React, TypeScript, FastAPI, WebSocket, NetworkX |
+| [EasyM](https://github.com/RafaelDella/easy_m) | Financial education platform for expenses, income, debt analysis and financial goals | PHP, MySQL, JavaScript, HTML, CSS |
+
+## Tech toolbox
+
+**Languages:** PHP · Python · JavaScript · TypeScript · Java · Rust · C/C++ · SQL
+
+**Web & APIs:** Laravel · React · Next.js · FastAPI · REST · WebSocket
+
+**Data:** PostgreSQL · MySQL · Supabase · Spark/PySpark *(learning)* · Databricks *(learning)*
+
+**Cloud & Engineering:** AWS · Azure Functions · Linux · Git · GitHub Actions · CI/CD · Automated Testing
+
+## What I'm building toward
+
+I'm developing a profile at the intersection of **backend development, data engineering and cloud architecture**, with the long-term goal of becoming a **Software or Solutions Architect**.
+
+I'm especially interested in projects involving data platforms, automation, AI-assisted workflows, secure systems and products with social impact.
+
+## GitHub activity
+
 <div align="center">
-  <a href="https://instagram.com/rafadellagoiaba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.com/users/379266623795757058/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href ="mailto:rafael.della64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/Nikomu64"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/pcmoa8qg8bfs15z06ld2gg6vs"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://myanimelist.net/profile/Nikomu"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
-  <a href="https://steamcommunity.com/profiles/76561198874499666"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
- 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelDella&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Rafael's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDella&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Rafael's most used languages" />
+</div>
+
+## Beyond code
+
+When I'm away from the keyboard, you'll probably find me listening to **punk, emo or pop rock**, cycling, taking photos or playing RPGs. 🎸📷🎲
+
+---
+
+<div align="center">
+  <i>Building reliable software, learning continuously and turning real problems into useful products.</i>
 </div>
